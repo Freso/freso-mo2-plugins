@@ -1,7 +1,7 @@
 Freso’s Mod Organizer 2 plugins
 ===============================
 
-This is a collection of plugins for use with Mod Organizer 2_ to aid with
+This is a collection of plugins for use with `Mod Organizer 2`_ to aid with
 mod organisation/management.
 
 .. _Mod Organizer 2: https://github.com/Modorganizer2
